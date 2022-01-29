@@ -38,7 +38,7 @@ Follow the instructions in order:
     `git commit -m "Add {YOUR_GITHUB_USERNAME} information"`
 
 10. Push the changes using,
-    ` git push origin main`
+    ` git push origin master`
 
 11. Open a pull request: As soon as the changes will be pushed, GUI of repository's main page will show a yellow banner saying you too open a Pull request, just click on it and you are done.
 
