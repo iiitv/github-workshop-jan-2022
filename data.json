@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "name": "Rahul Bansal",
+      "batch": 2019,
+      "picture_url": "https://i.ibb.co/S0v6KWh/IMG-20201214-WA0000.jpg",
+      "twitter": "https://twitter.com/itz_rahul_rj",
+      "github": "https://github.com/rahulbansal0502",
+      "linkedin": "https://www.linkedin.com/in/rahulbansal52/",
+      "quote": "Open source is 💓."
+    },
+    {
+      "name": "Dhruv Shah",
+      "batch": 2021,
+      "picture_url": "https://i.ibb.co/rp2bFcB/Whats-App-Image-2022-01-30-at-11-42-39-AM.jpg",
+      "twitter": "https://twitter.com/Dmhshah",
+      "github": "https://github.com/Proder",
+      "linkedin": "https://www.linkedin.com/in/dhruv-shah-a1b078224",
+      "quote": "EverLearner"
+    },
+    {
+      "name": "Shitij Gaur",
+      "batch": 2021,
+      "picture_url": "https://i.ibb.co/BjRxhnJ/IMG-20220120-180959-050-2.jpg",
+      "twitter": "No Twitter Account",
+      "github": "https://github.com/shitijG118",
+      "linkedin": "https://www.linkedin.com/in/shitij-gaur-b33484a3/",
+      "quote": "No Pain No Gain 🔥"
+
+    },
+    {
+      "name": "Soumil Singh",
+      "batch": 2021,
+      "picture_url": " https://i.ibb.co/54xgDwW/20211120-193745.jpg",
+      "github": "https://github.com/Soumil4561",
+      "linkedin": "https://www.linkedin.com/in/soumil-singh-19986b123/",
+      "quote": "Open source is 💓."
+    },
+    {
       "name": "Umesh Chauhan",
       "batch": 2021,
       "picture_url": "https://ibb.co/pr00dg5",
