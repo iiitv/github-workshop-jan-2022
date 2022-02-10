@@ -1,9 +1,0 @@
- {
-      "name": {Akash Maurua},
-      "batch": {YOUR_BATCH_COMMENCEMENT_YEAR},
-      "picture_url": {https://i.ibb.co/dWFL8zQ/e5030898-13f1-4864-8572-2664f3344abd.jpg},
-      "twitter": {https://twitter.com/mauryaakash2209?t=D2Hm0aVx1dov-twXjuqJXA&s=08},
-      "github": {https://github.com/akashma2209},
-      "linkedin": {YOUR_LINKEDIN_PROFILE_LINK},
-      "quote": {202151013}
-    }
