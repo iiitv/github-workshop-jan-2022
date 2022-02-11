@@ -1,5 +1,5 @@
-{
-  "data": [
+{ 
+"data": [
     {
       "name": "Rahul Bansal",
       "batch": 2019,
@@ -124,6 +124,15 @@
       "github": "https://github.com/ankurgupta007",
       "linkedin": "https://www.linkedin.com/in/ankur-gupta-72219a204/",
       "quote": "GIT is OP"
+    },
+    {
+      "name": "Akash Maurya",
+      "batch": 2021,
+      "picture_url": "https://i.ibb.co/dWFL8zQ/e5030898-13f1-4864-8572-2664f3344abd.jpg",
+      "twitter": "https://twitter.com/mauryaakash2209?t=D2Hm0aVx1dov-twXjuqJXA&s=08",
+      "github": "https://github.com/akashma2209",
+      "linkedin": "https://www.linkedin.com/in/akash-maurya-213510231/",
+      "quote": "Open source is 💓."
     }
   ]
 }
